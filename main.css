@@ -72,12 +72,13 @@ body{
     color: #1F2F56;
 }
 
-.simple_grid h5, p{
+.simple_grid h2, p{
     margin: 0;
 }
 
-.simple_grid h5{
+.simple_grid h2{
     font-weight: 900;
+    font-size: 12px;
 }
 
 .simple_grid img{
